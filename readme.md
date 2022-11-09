@@ -12,3 +12,5 @@ so you can **learn** more:
 * collaboration
 > [!NOTE]
 > data got from w3school
+---
+![from microsoft](https://learn.microsoft.com/en-us/contribute/media/markdown-reference/document.png)
